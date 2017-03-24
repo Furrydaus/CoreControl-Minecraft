@@ -1,0 +1,16 @@
+UUID: aaf029ed-1ed0-3428-9a26-b88a6adb78fc
+UserName: Furrydaus
+Permission: homespawn.admin
+login: 1490369226372
+logout: 1490372259867
+Homes:
+  list:
+  - Home
+  Home:
+    ==: org.bukkit.Location
+    world: world
+    x: 163.3308654038522
+    y: 109.0
+    z: -505.76249998807907
+    pitch: 13.200142
+    yaw: 2.9016182

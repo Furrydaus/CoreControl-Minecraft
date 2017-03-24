@@ -1,0 +1,9 @@
+ConfigVersion: 1
+AutoUpdate: true
+UpdateNotification: true
+Metrics: true
+VIPHomesLimit: 10
+AdminHomesLimit: 10
+TeleportTime: 10
+CommandBook: true
+InventoryMenu: true

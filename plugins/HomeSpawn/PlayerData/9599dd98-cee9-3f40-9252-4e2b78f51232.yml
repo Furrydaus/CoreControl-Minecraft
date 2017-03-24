@@ -1,0 +1,16 @@
+UUID: 9599dd98-cee9-3f40-9252-4e2b78f51232
+UserName: DaZikRy_
+Permission: homespawn.admin
+login: 1490017390574
+logout: 1490017395098
+Homes:
+  list:
+  - Home
+  Home:
+    ==: org.bukkit.Location
+    world: world
+    x: 107.6449582132975
+    y: 78.0
+    z: 915.0822631116715
+    pitch: 17.400064
+    yaw: 176.69861

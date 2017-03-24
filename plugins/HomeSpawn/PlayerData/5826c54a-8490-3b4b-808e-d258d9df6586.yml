@@ -1,0 +1,16 @@
+UUID: 5826c54a-8490-3b4b-808e-d258d9df6586
+UserName: MuizHandsome99
+Permission: homespawn.admin
+login: 1490356523892
+logout: 1490360631309
+Homes:
+  list:
+  - Home
+  Home:
+    ==: org.bukkit.Location
+    world: world
+    x: 1079.928952261266
+    y: 98.0
+    z: 790.9006756819596
+    pitch: 10.050057
+    yaw: 40.875004

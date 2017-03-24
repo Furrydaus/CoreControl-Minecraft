@@ -1,0 +1,16 @@
+UUID: fb296ad1-d01a-3964-aba7-67db4d87269f
+UserName: ZeeDan
+Permission: '-'
+login: '-'
+logout: 0
+Homes:
+  list:
+  - Home
+  Home:
+    ==: org.bukkit.Location
+    world: world
+    x: 108.0
+    y: 82.0
+    z: 942.0
+    pitch: 18.303202
+    yaw: 182.88928
