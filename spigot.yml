@@ -92,6 +92,7 @@ world-settings:
       misc: 32
       other: 64
     entity-activation-range:
+      raiders: 48
       animals: 32
       monsters: 32
       misc: 16
