@@ -27,7 +27,7 @@ case $opt in
 	"Run the installed Spigot Server")
         echo Starting Spigot Server...
         sleep 1
-        java -Xmx3000M -XX:MaxPermSize=128M -jar spigot.jar nogui -o false
+        java -Xmx3400M -jar spigot.jar nogui -o false
 	;;
 	"BACKUP ALL SERVER FILES TO GITHUB")
 	cd scripts
@@ -39,3 +39,4 @@ case $opt in
     *) echo invalid option;;
  esac
 done
+

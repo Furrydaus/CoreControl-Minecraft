@@ -1,4 +1,0 @@
-Prefix: '&7[&bConsoleSender&7] '
-CommandSent: '&aSent Command >> &b'
-NoCmd: '&4Please specify a command to send to console.'
-NoPerm: '&4Sorry you do not have permission to use this command'

@@ -1,8 +1,8 @@
 #Disable if you don't want Miners to consume coal
-enable-fuel: false
+enable-fuel: true
 
 #Disable if you don't want Miners to use materials inside chests
-enable-recipes: false
+enable-recipes: true
 
 #List of blocks that cannot be broken (IDs)
 block-blacklist:
@@ -26,7 +26,7 @@ Messages:
   ReloadSuccess: "%prefix% &aSuccessfully reloaded config!"
   AlreadyRunning: "%prefix% &cThat Miner is already running!"
   IncorrectShape: "%prefix% &cIncorrect shape!"
-  FoundEmptySpace: "%prefix% &cNo more ground! Stopping.."
+  FoundEmptySpace: "%prefix% &cFound an empty space! Stopping.."
   OutOfFuel: "%prefix% &cOut of fuel! Stopping.."
-  RequiresItem: "%prefix% &cInsufficent items in chest! Missing %item%"
+  RequiresItem: "%prefix% &cInsufficent items! Missing %item%"
   FailedToMine: "%prefix% &cMiner has encountered a problem! Stopping.."

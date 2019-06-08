@@ -1,0 +1,9 @@
+# 
+# Operators automatically have these permissions. To give them all permissions to all commands, Do /op <player>
+# 
+# medic.healthinfo for command /healthinfo 
+# medic.sethealth for command sethealth
+# medic.sethunger for command /sethealth
+# medic.help for command /medic (Usually given to everybody)
+# medic.* for all medic permissions
+
