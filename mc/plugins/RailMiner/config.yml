@@ -1,0 +1,32 @@
+#Disable if you don't want Miners to consume coal
+enable-fuel: true
+
+#Disable if you don't want Miners to use materials inside chests
+enable-recipes: true
+
+#List of blocks that cannot be broken (IDs)
+block-blacklist:
+- "7"
+
+#Change mined blocks to a certain item e.g "16=263" changes coalore(16) to coal(263)
+#You can also define the amount of items it drops e.g lapisore drops multiable lapis, "21=351:4x5"
+change-drops:
+- "16=263" #Coalore to coal
+- "15=265" #Ironore to ironingot
+- "21=351:4x5" #Lapisore to lapis (drops 5)
+- "73=331" #Redstone ore to redstone dust
+- "129=388" #Emerald ore to emerald
+- "14=266" #Goldore to gold
+- "56=264" #Diamond ore to diamond
+- "153=406" #Quartz ore to quartz
+
+Messages:
+  Prefix: "&e[&5RailMiner&e]"
+  InvalidPermissions: "%prefix% &cYou do not have the required permissions!"
+  ReloadSuccess: "%prefix% &aSuccessfully reloaded config!"
+  AlreadyRunning: "%prefix% &cThat Miner is already running!"
+  IncorrectShape: "%prefix% &cIncorrect shape!"
+  FoundEmptySpace: "%prefix% &cFound an empty space! Stopping.."
+  OutOfFuel: "%prefix% &cOut of fuel! Stopping.."
+  RequiresItem: "%prefix% &cInsufficent items! Missing %item%"
+  FailedToMine: "%prefix% &cMiner has encountered a problem! Stopping.."
