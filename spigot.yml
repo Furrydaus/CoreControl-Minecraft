@@ -60,6 +60,7 @@ stats:
   forced-stats: {}
 world-settings:
   default:
+    random-light-updates: false
     verbose: true
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
