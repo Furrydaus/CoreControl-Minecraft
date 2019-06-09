@@ -1,0 +1,19 @@
+# ********************* DeadChest Configuration File *********************
+# onlyOwnerCanOpenDeadChest :
+#    true  : everybody can open dead chest of everybody
+#    false : only the owner of the inventory can open the dead chest
+# deadChestDuration : Number of seconds before a dead chest disappears
+#    true  : Nothing can destroy a dead chest until a player get back inventory
+#             or DeadChestDuration is over.
+#    false : dead chest can be destroyable by player or explosion
+#  RELOAD OR RESTART SERVER AFTER A CHANGE IN THIS FILE
+#  DO NOT EDIT playersInventory's fields
+# *************************************************************************
+
+onlyOwnerCanOpenDeadChest: true
+deadChestDuration: 3600
+IndestuctibleChest: true
+playersInventory: []
+playersInventoryBlock: []
+playersInventoryOwner: []
+playersInventoryDate: []
