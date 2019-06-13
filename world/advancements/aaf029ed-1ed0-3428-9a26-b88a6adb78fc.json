@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2019-06-09 19:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2019-06-06 13:17:16 +0000"
@@ -275,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2019-06-09 19:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2019-06-08 17:53:34 +0000"
@@ -284,6 +296,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2019-06-08 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-06-09 18:33:32 +0000"
     },
     "done": true
   },
@@ -302,6 +320,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-06-06 14:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-06-09 18:51:05 +0000"
     },
     "done": true
   },
@@ -521,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wooden_fences": "2019-06-09 18:54:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-09 17:01:25 +0000"
@@ -589,6 +619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2019-06-09 19:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-06-06 13:20:21 +0000"
@@ -616,6 +652,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-06-09 17:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2019-06-09 19:08:50 +0000"
     },
     "done": true
   },
@@ -841,6 +883,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2019-06-09 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2019-06-09 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-06-09 18:51:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-06-09 17:01:25 +0000"
@@ -857,11 +917,26 @@
     "criteria": {
       "minecraft:skeleton": "2019-06-06 13:36:47 +0000",
       "minecraft:spider": "2019-06-06 15:17:09 +0000",
+      "minecraft:creeper": "2019-06-09 18:55:06 +0000",
       "minecraft:husk": "2019-06-06 14:15:39 +0000",
+      "minecraft:cave_spider": "2019-06-09 19:04:40 +0000",
+      "minecraft:enderman": "2019-06-09 18:29:16 +0000",
       "minecraft:zombie": "2019-06-06 14:29:49 +0000",
       "minecraft:zombie_villager": "2019-06-09 17:18:52 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2019-06-09 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2019-06-09 19:42:30 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
@@ -914,6 +989,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-09 17:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2019-06-09 19:42:30 +0000"
     },
     "done": true
   },
@@ -978,6 +1059,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2019-06-09 19:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2019-06-06 13:21:42 +0000"
@@ -993,6 +1080,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2019-06-08 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2019-06-09 19:08:50 +0000"
     },
     "done": true
   },
@@ -1119,6 +1212,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2019-06-06 14:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2019-06-09 19:08:50 +0000"
     },
     "done": true
   },
@@ -1534,11 +1633,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-06-09 05:44:25 +0000",
+      "minecraft:mountains": "2019-06-09 19:45:31 +0000",
+      "minecraft:taiga": "2019-06-09 18:46:41 +0000",
       "minecraft:desert_hills": "2019-06-06 14:08:37 +0000",
+      "minecraft:taiga_hills": "2019-06-09 19:07:58 +0000",
       "minecraft:desert": "2019-06-06 13:23:16 +0000",
       "minecraft:dark_forest": "2019-06-06 13:21:54 +0000",
       "minecraft:river": "2019-06-06 14:10:39 +0000",
       "minecraft:wooded_hills": "2019-06-06 15:15:07 +0000",
+      "minecraft:stone_shore": "2019-06-09 19:45:39 +0000",
       "minecraft:swamp": "2019-06-09 01:03:11 +0000",
       "minecraft:plains": "2019-06-06 13:16:32 +0000"
     },
@@ -1571,6 +1674,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-06-06 13:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2019-06-09 18:51:05 +0000"
     },
     "done": true
   },
@@ -1739,6 +1848,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2019-06-06 14:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2019-06-09 19:08:50 +0000"
     },
     "done": true
   },
